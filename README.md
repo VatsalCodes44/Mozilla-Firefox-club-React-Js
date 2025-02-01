@@ -1,8 +1,21 @@
-# React + Vite
+## Basic website using React Js
+I  built a simple yet functional website for the Mozilla Firefox Club using React.js and React Router DOM. This project showcases my growing expertise in web development, particularly in creating seamless navigation and structured layouts.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+### Key Features & Technologies:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Built with React.js** for a dynamic and efficient user experience.
+
+- **React Router DOM** is used for smooth navigation across different pages.
+
+-   A **consistent navbar** that appears across all routes, providing easy access to:
+
+ -  - **VIT Logo** – Represents the identity of our college.
+
+- - **Home** – The landing page with a carousel..
+
+- - **Events** – A section showcasing information about events.
+
+- - **About Us** – Information about the club’s mission and vision.
+
+- - **Community** – A space for members to connect and engage.
