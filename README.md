@@ -1,4 +1,10 @@
 ## Basic website using React Js
+
+Name- Vatsal Mahajan
+Registration No.- 24BCE10256
+video- [drive link](https://drive.google.com/file/d/1EV_ZL6nE8OpEKOgkxtYrJwYy3M53F8Uk/view?usp=drive_link)
+
+
 I  built a simple yet functional website for the Mozilla Firefox Club using React.js and React Router DOM. This project showcases my growing expertise in web development, particularly in creating seamless navigation and structured layouts.
 
 
