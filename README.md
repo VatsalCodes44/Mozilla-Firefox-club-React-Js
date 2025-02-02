@@ -19,3 +19,6 @@ I  built a simple yet functional website for the Mozilla Firefox Club using Reac
 - - **About Us** – Information about the club’s mission and vision.
 
 - - **Community** – A space for members to connect and engage.
+
+## Home Page-
+![homepage](https://drive.google.com/file/d/1GNKT3htnIoG1MaUMU9DgwtwfptyWN-_x/view?usp=sharing)
