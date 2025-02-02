@@ -21,4 +21,4 @@ I  built a simple yet functional website for the Mozilla Firefox Club using Reac
 - - **Community** – A space for members to connect and engage.
 
 ## Home Page
-![homepage](https://imgur.com/a/v324Ujh)
+![homepage](https://github.com/VatsalCodes44/Mozilla-Firefox-club-React-Js/blob/404ca5d6d78f52a68cc8ec41380bc34aa8c0f143/Screenshot%202025-02-01%20211806.png)
